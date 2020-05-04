@@ -5,13 +5,18 @@
 Настройки:
 
 ● token           - Токен сообщества, получать в настройках API группы со всеми разрешениями. 
-                    Пример: http://prntscr.com/sanpe4
+
+Пример: http://prntscr.com/sanpe4
 
 ● secretKey       - Секретный ключ для защиты бота от атак.
-                    Пример: $secretKey = "zabanimpidorov"; http://127.0.0.1/kick/get.php?akey=zabanimpidorov
+
+Пример: $secretKey = "zabanimpidorov"; http://127.0.0.1/kick/get.php?akey=zabanimpidorov
 
 ● confirmationKey - Ключ подтверждения сервера бота в ВК.
-                    Пример: http://prntscr.com/sanoex
+
+Пример: http://prntscr.com/sanoex
+
+
 
 Автор: https://vk.com/isaacrulz23
 
