@@ -13,6 +13,10 @@
 ● confirmationKey - Ключ подтверждения сервера бота в ВК.
                     Пример: http://prntscr.com/sanoex
 
-Автор:
-https://vk.com/isaacrulz23
+Автор: https://vk.com/isaacrulz23
+
 Если появились проблемы в установке, то пишите
+
+Тестовая группа: https://vk.com/kick_ludey 
+
+Просто сделайте её администратором в беседе.
