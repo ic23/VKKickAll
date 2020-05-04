@@ -50,9 +50,10 @@
 					kick($id, $beseda);
 					die("ok");
 					break;
+				} else {
+					die("ok");
+					break;
 				}
-				die("ok");
-				break;
 		}
 	}
 	else
