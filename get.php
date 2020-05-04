@@ -31,6 +31,7 @@
 				break;
 			case 'message_new':
 				$message = $userdata->object->text;
+				$message = mb_strtolower($message, 'UTF-8');
 				$id = $userdata->object->from_id;
 				$beseda = $userdata->object->peer_id;
 				if (strpos($message, '@all') !== false) 
