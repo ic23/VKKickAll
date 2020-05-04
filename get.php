@@ -36,6 +36,20 @@
 				if (strpos($message, '@all') !== false) 
 				{
 					kick($id, $beseda);
+					die("ok");
+					break;
+				}
+				elseif (strpos($message, '@everyone') !== false)
+				{
+					kick($id, $beseda);
+					die("ok");
+					break;
+				}
+				elseif (strpos($message, '@online') !== false)
+				{
+					kick($id, $beseda);
+					die("ok");
+					break;
 				}
 				die("ok");
 				break;
