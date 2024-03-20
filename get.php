@@ -91,7 +91,7 @@
 						}
 					}
 					
-					if (strpos($message, '!kick') !== false) {
+					if (strpos($message, $GLOBALS['kickcmd']) !== false) {
 						json_decode(file_get_contents('php://input'));
 						$request_params = array( 
 						'peer_ids' => $beseda, 
